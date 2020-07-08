@@ -1,6 +1,6 @@
 # kryptus
 
-#1. Implemente uma lista ligada dinâmica com pelo menos os comandos: put, get, list, remove, clear, first e last.
+1. Implemente uma lista ligada dinâmica com pelo menos os comandos: put, get, list, remove, clear, first e last.
 (Insira o link do seu último commit hospedado no GitHub ou similares ou cole a sua solução no campo de resposta desta pergunta).
 
 Esse código será utilizado para a próxima e última pergunta onde você deverá adicionar a funcionalidade de ordenar a lista, portanto se atente ao tempo em cada questão.
